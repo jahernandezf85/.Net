@@ -1,0 +1,10 @@
+C:\Users\ache_\source\repos\Prueba1\Prueba1\bin\Debug\Prueba1.exe.config
+C:\Users\ache_\source\repos\Prueba1\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\ache_\source\repos\Prueba1\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\ache_\source\repos\Prueba1\Prueba1\obj\Debug\Prueba1.csprojAssemblyReference.cache
+C:\Users\ache_\source\repos\Prueba1\Prueba1\obj\Debug\Prueba1.frmBuscarFichero.resources
+C:\Users\ache_\source\repos\Prueba1\Prueba1\obj\Debug\Prueba1.Properties.Resources.resources
+C:\Users\ache_\source\repos\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.GenerateResource.cache
+C:\Users\ache_\source\repos\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.CoreCompileInputs.cache
+C:\Users\ache_\source\repos\Prueba1\Prueba1\obj\Debug\Prueba1.exe
+C:\Users\ache_\source\repos\Prueba1\Prueba1\obj\Debug\Prueba1.pdb

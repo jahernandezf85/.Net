@@ -1,0 +1,10 @@
+C:\Users\ache_\source\repos\PruebaConexionBBDD\PruebaConexionBBDD\bin\Debug\PruebaConexionBBDD.exe.config
+C:\Users\ache_\source\repos\PruebaConexionBBDD\PruebaConexionBBDD\bin\Debug\PruebaConexionBBDD.exe
+C:\Users\ache_\source\repos\PruebaConexionBBDD\PruebaConexionBBDD\bin\Debug\PruebaConexionBBDD.pdb
+C:\Users\ache_\source\repos\PruebaConexionBBDD\PruebaConexionBBDD\obj\Debug\PruebaConexionBBDD.csprojAssemblyReference.cache
+C:\Users\ache_\source\repos\PruebaConexionBBDD\PruebaConexionBBDD\obj\Debug\PruebaConexionBBDD.Form1.resources
+C:\Users\ache_\source\repos\PruebaConexionBBDD\PruebaConexionBBDD\obj\Debug\PruebaConexionBBDD.Properties.Resources.resources
+C:\Users\ache_\source\repos\PruebaConexionBBDD\PruebaConexionBBDD\obj\Debug\PruebaConexionBBDD.csproj.GenerateResource.cache
+C:\Users\ache_\source\repos\PruebaConexionBBDD\PruebaConexionBBDD\obj\Debug\PruebaConexionBBDD.csproj.CoreCompileInputs.cache
+C:\Users\ache_\source\repos\PruebaConexionBBDD\PruebaConexionBBDD\obj\Debug\PruebaConexionBBDD.exe
+C:\Users\ache_\source\repos\PruebaConexionBBDD\PruebaConexionBBDD\obj\Debug\PruebaConexionBBDD.pdb
